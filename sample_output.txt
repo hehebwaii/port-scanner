@@ -1,6 +1,6 @@
 Let's assume you're scanning a host with IP 192.168.1.1 for open ports in the range 20 to 25. Running the script with the following command:./port_scan.sh 192.168.1.1 20 25
 
-## Sample output:
+Sample output:
 
 Scanning target: 192.168.1.1
 Ports range: 20 to 25
