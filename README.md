@@ -4,6 +4,7 @@ A straightforward Bash-based port scanning tool designed to identify open ports 
 - Save the script as port_scanner.sh (or any other name).
 - Make it executable:
 chmod +x port_scanner.sh
+
  Run the script:
 ```bash
 ./port_scanner.sh <target-ip> <start-port> <end-port>
